@@ -1,0 +1,2 @@
+#新建初始化文件,文件的内容,就是配置文件持久化代码的路径地址
+#com.example.test.module.sentinel.DataSourceInitFunc
